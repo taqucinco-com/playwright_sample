@@ -17,3 +17,7 @@ FEをNext.jsで実装する
 
 - / にレンダリングされているボタンをクリックすると /about に遷移する
 - /about で hoge がレンダリングされている
+
+```
+npx playwright test tests/home.spec.ts --headed --debug --config playwright.config.ts
+```
