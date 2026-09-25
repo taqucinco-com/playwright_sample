@@ -6,10 +6,13 @@ Playwrightを理解するためのrepository
 
 FEをNext.jsで実装する
 
-## Routing
+## Specs
 
-/ => ここに /about というルーティングへのボタンがある
-/about => hoge というh1がある
+### Routing
+
+1. / => ここに /about というルーティングへのボタンがある
+2. /about => hoge というh1がある
+3. /policy => 利用規約を表示する
 
 ## Playwright
 
