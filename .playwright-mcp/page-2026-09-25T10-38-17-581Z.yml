@@ -1,0 +1,6 @@
+- generic [active] [ref=e1]:
+  - main [ref=e2]:
+    - heading "Home" [level=1] [ref=e3]
+    - button "about へ" [ref=e4]
+  - button "Open Next.js Dev Tools" [ref=e10] [cursor=pointer]
+  - alert [ref=e14]
